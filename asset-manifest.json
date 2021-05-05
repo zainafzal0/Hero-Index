@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Hero-Index/static/css/main.55ebd76e.chunk.css",
-    "main.js": "/Hero-Index/static/js/main.85f7cb20.chunk.js",
-    "main.js.map": "/Hero-Index/static/js/main.85f7cb20.chunk.js.map",
-    "runtime-main.js": "/Hero-Index/static/js/runtime-main.4254152d.js",
-    "runtime-main.js.map": "/Hero-Index/static/js/runtime-main.4254152d.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/Hero-Index/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.607fb7bd.chunk.js": "/Hero-Index/static/js/2.607fb7bd.chunk.js",
-    "static/js/2.607fb7bd.chunk.js.map": "/Hero-Index/static/js/2.607fb7bd.chunk.js.map",
-    "index.html": "/Hero-Index/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/Hero-Index/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.55ebd76e.chunk.css.map": "/Hero-Index/static/css/main.55ebd76e.chunk.css.map",
-    "static/js/2.607fb7bd.chunk.js.LICENSE.txt": "/Hero-Index/static/js/2.607fb7bd.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Hero-Index/static/media/heroBackground1.91564edb.jpg"
+    "main.css": "/hero-index/static/css/main.b32981ff.chunk.css",
+    "main.js": "/hero-index/static/js/main.85f7cb20.chunk.js",
+    "main.js.map": "/hero-index/static/js/main.85f7cb20.chunk.js.map",
+    "runtime-main.js": "/hero-index/static/js/runtime-main.c3d7c2d4.js",
+    "runtime-main.js.map": "/hero-index/static/js/runtime-main.c3d7c2d4.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/hero-index/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.607fb7bd.chunk.js": "/hero-index/static/js/2.607fb7bd.chunk.js",
+    "static/js/2.607fb7bd.chunk.js.map": "/hero-index/static/js/2.607fb7bd.chunk.js.map",
+    "index.html": "/hero-index/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/hero-index/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b32981ff.chunk.css.map": "/hero-index/static/css/main.b32981ff.chunk.css.map",
+    "static/js/2.607fb7bd.chunk.js.LICENSE.txt": "/hero-index/static/js/2.607fb7bd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hero-index/static/media/heroBackground1.91564edb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4254152d.js",
+    "static/js/runtime-main.c3d7c2d4.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.607fb7bd.chunk.js",
-    "static/css/main.55ebd76e.chunk.css",
+    "static/css/main.b32981ff.chunk.css",
     "static/js/main.85f7cb20.chunk.js"
   ]
 }
